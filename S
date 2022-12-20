@@ -1,191 +1,196 @@
-
-
-
 #EXTINF:-1 xui-id="188311" tvg-id="" tvg-name="AFIZZIONADOS (HD)" tvg-logo="https://imgur.com/rQ7k0g1.png" group-title="Sports",AFIZZIONADOS (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wucQ9EoY1WVyr3NInE5WCw/ts
-#EXTINF:-1 xui-id="412576" tvg-id="BANDSPH" tvg-name="BAND SPORTS (HD) (BR)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn7uPgXXDlwzKfrzhBjsKX6E.png" group-title="Sports",BAND SPORTS (HD) (BR)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2yWZ60i3iOrruAaVR5tFCtU/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy01QqAacSqkcjs-6oY38hXbU/ts
 #EXTINF:-1 xui-id="44733" tvg-id="BARCATV" tvg-name="BARCA TV (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn49yhj1PAnD39mq5RBhd2yw.png" group-title="Sports",BARCA TV (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zgEDAuiFMgRcEELTpJ6FUg/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy01HeuuPlm89LOk6ySmTjOGg/ts
 #EXTINF:-1 xui-id="5628" tvg-id="BEIN2HD" tvg-name="Bein Sports ñ (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4jWHHHeEduilkgNH653-oU.png" group-title="Sports",Bein Sports ñ (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu26qguR8ADO5CJZxr4a4UKm8/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy091_lepB5nOT9C8me2oSTos/ts
 #EXTINF:-1 xui-id="240413" tvg-id="BOXNAUK" tvg-name="BOX NATION US (SD)" tvg-logo="https://imgur.com/HzopwcT.png" group-title="Sports",BOX NATION US (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu22HToS72zqIezk5GxTwAWRQ/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy07GKQK99AnK8qg_ICSTmglQ/ts
 #EXTINF:-1 xui-id="372425" tvg-id="CLAHDA" tvg-name="CLARO SPORTS (HDe)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn966dQocDoYLEmg0UWQWm-4.png" group-title="Sports",CLARO SPORTS (HDe)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29HF9atpadCySB5rwQKORsk/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy09QelVug_Rtf562Q3HJOt8I/ts
 #EXTINF:-1 xui-id="418489" tvg-id="" tvg-name="CLARO SPORTS 1 (HD) (N)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn966dQocDoYLEmg0UWQWm-4.png" group-title="Sports",CLARO SPORTS 1 (HD) (N)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu20y052FqRvhYzXB_cxsDMLg/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy08jZ4OqXyvIuBvfsutX9lLc/ts
+#EXTINF:-1 xui-id="10450" tvg-id="CLAROSA" tvg-name="CLARO SPORTS 1 (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn966dQocDoYLEmg0UWQWm-4.png" group-title="Sports",CLARO SPORTS 1 (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0zjrQ_rIp0SnQQQDqi9Dgu0/ts
 #EXTINF:-1 xui-id="42553" tvg-id="CLARSHD" tvg-name="CLARO SPORTS 2 (HD) (N)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn966dQocDoYLEmg0UWQWm-4.png" group-title="Sports",CLARO SPORTS 2 (HD) (N)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu20amMsH8QfOWVJgheXpindU/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy02mPbEIESmP7tssi9fwwe_U/ts
 #EXTINF:-1 xui-id="182937" tvg-id="DEPORHA" tvg-name="DEPORTV (HD)" tvg-logo="https://imgur.com/1fews7C.png" group-title="Sports",DEPORTV (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zYogMXM30GR55PDeodijQ8/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0xTzSOs5PLa9uyOJOBWnszI/ts
 #EXTINF:-1 xui-id="421083" tvg-id="" tvg-name="DTV SPORTS FIGHT (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn65Vh_XMbZ8i3bx8_dD5j5M.png" group-title="Sports",DTV SPORTS FIGHT (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu27adnbjysrIeaJD0u43r6vM/ts
-#EXTINF:-1 xui-id="240389" tvg-id="FISHHD" tvg-name="FISH TV BR (HD)" tvg-logo="https://imgur.com/a0NrbGi.png" group-title="Sports",FISH TV BR (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2_NdJqZzNb_tGNOMs1Dfppo/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0_7b7VFkKHbOSdwz0JFbHFY/ts
 #EXTINF:-1 xui-id="42887" tvg-id="DESPNCS" tvg-name="ESPN 1  (HDe) (CO)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6YevSdHbbSyDHsdSkhhQDE.png" group-title="Sports",ESPN 1  (HDe) (CO)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu24Holoa18UwF8V17TOqWUk8/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy05jcRw09m4EweMaqYPMOo4M/ts
 #EXTINF:-1 xui-id="244696" tvg-id="" tvg-name="ESPN 1 (CH)(HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6YevSdHbbSyDHsdSkhhQDE.png" group-title="Sports",ESPN 1 (CH)(HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wqVaBsd-uE_63ospYmzDUQ/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy065fZxplmDG08lLRbb1IcnE/ts
 #EXTINF:-1 xui-id="42543" tvg-id="ESPNLH2" tvg-name="ESPN 1 (HD)  (AR)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6YevSdHbbSyDHsdSkhhQDE.png" group-title="Sports",ESPN 1 (HD)  (AR)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21JOeZfIQ1DlmKr0Hwnh8C8/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00jxecd2IhP7knhmxhXkg0U/ts
 #EXTINF:-1 xui-id="378386" tvg-id="ESPNLH2" tvg-name="ESPN 1 (HD) (PE)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6YevSdHbbSyDHsdSkhhQDE.png" group-title="Sports",ESPN 1 (HD) (PE)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu25CvYlOJWJR5VOUYCW4TRKk/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0wAc4kLPkzjqMDEvbLB8wYk/ts
 #EXTINF:-1 xui-id="42469" tvg-id="ESPNLH2" tvg-name="ESPN 1 (HDe)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6YevSdHbbSyDHsdSkhhQDE.png" group-title="Sports",ESPN 1 (HDe)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu227wnGMCf7VphZlMtEtCYPk/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy05MMKSewf1TSMXopWNLRt-c/ts
 #EXTINF:-1 xui-id="24908" tvg-id="DESPNCS" tvg-name="ESPN 1 (SD) (CO)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6YevSdHbbSyDHsdSkhhQDE.png" group-title="Sports",ESPN 1 (SD) (CO)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2yawi4RyoNC1ZFLz1HdJG9I/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy03n7MniqEYq2FQYjRgm7rXs/ts
 #EXTINF:-1 xui-id="24909" tvg-id="ESPNLH2" tvg-name="ESPN 1 (SD) (PE)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6YevSdHbbSyDHsdSkhhQDE.png" group-title="Sports",ESPN 1 (SD) (PE)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29OkMenywSkf9MOOgcannn8/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0yMoZq3gnNr8eOPjiL29G1k/ts
+#EXTINF:-1 xui-id="42470" tvg-id="ESPNLH2" tvg-name="ESPN 1 (SDe)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6YevSdHbbSyDHsdSkhhQDE.png" group-title="Sports",ESPN 1 (SDe)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy02w5Lp0Du7QZAHEkFqsQhts/ts
 #EXTINF:-1 xui-id="521" tvg-id="ESPNSCH" tvg-name="ESPN 1 CH (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6YevSdHbbSyDHsdSkhhQDE.png" group-title="Sports",ESPN 1 CH (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu23kGisXGax-d6tnCFdYJKTU/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy02JnmiokuuuuvfeDN-h6aFQ/ts
 #EXTINF:-1 xui-id="229105" tvg-id="" tvg-name="ESPN 1 MX (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6YevSdHbbSyDHsdSkhhQDE.png" group-title="Sports",ESPN 1 MX (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu292fiwKflPwDGB3C8M1vcQQ/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy01ANJ-Ww88TrWs6bLg1C_OM/ts
 #EXTINF:-1 xui-id="182320" tvg-id="ESPNBOOHIO" tvg-name="ESPN 1 NRT (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn6YevSdHbbSyDHsdSkhhQDE.png" group-title="Sports",ESPN 1 NRT (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2-TOA9FHhZmG1ehKCgtOwm4/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy01ej-Q7N-flLNs77cIJrUx0/ts
 #EXTINF:-1 xui-id="182321" tvg-id="ESPN2C2" tvg-name="ESPN 2  NRT (HD)" tvg-logo="https://imgur.com/SQDWZwU.png" group-title="Sports",ESPN 2  NRT (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2-eZiGWFYcnVCs0FZxl21Ao/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0wv75ZTfcaZEQ5e88z5e2c4/ts
 #EXTINF:-1 xui-id="370271" tvg-id="ESPN2AH" tvg-name="ESPN 2 (CH)(HD)" tvg-logo="https://imgur.com/SQDWZwU.png" group-title="Sports",ESPN 2 (CH)(HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu20ltUoUKhYNkrn8PX3976rk/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0-Za7Z20iP3zMb0Qz8JOEVA/ts
 #EXTINF:-1 xui-id="13740" tvg-id="ESPN2EA" tvg-name="ESPN 2 (HD) (AR)" tvg-logo="https://imgur.com/SQDWZwU.png" group-title="Sports",ESPN 2 (HD) (AR)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2yY5B6G6KW43H7p_RqYPAVI/ts
-#EXTINF:-1 xui-id="545" tvg-id="ESPN2CL" tvg-name="ESPN 2 (SD) (CHI)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj5DWrtSfMNEUsmPoB9KXOQY.png" group-title="Sports",ESPN 2 (SD) (CHI)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu20x4wf1vW5YPqFN6uMqDlxY/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy004n-PXmEDfhO7XDi5YoR_s/ts
+#EXTINF:-1 xui-id="545" tvg-id="ESPN2CL" tvg-name="ESPN 2 (SD) (CHI)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn9i4-bNq8HvpcZdCczr3j8Y.png" group-title="Sports",ESPN 2 (SD) (CHI)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00LhhlTziX3EJseeS9CoAUQ/ts
 #EXTINF:-1 xui-id="20107" tvg-id="ESPN2V" tvg-name="ESPN 2 LATINO (HDe) (S)" tvg-logo="https://imgur.com/SQDWZwU.png" group-title="Sports",ESPN 2 LATINO (HDe) (S)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xWXLeHuJzUhKPr36gOo634/ts
-#EXTINF:-1 xui-id="24936" tvg-id="ESPN2VE" tvg-name="ESPN 2 LATINO (SD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj5DWrtSfMNEUsmPoB9KXOQY.png" group-title="Sports",ESPN 2 LATINO (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu22n-eWrN_gBEf-YfKcqCBHw/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0wFde3iIGqv7mnrYHbpPTM4/ts
+#EXTINF:-1 xui-id="24936" tvg-id="ESPN2VE" tvg-name="ESPN 2 LATINO (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn9i4-bNq8HvpcZdCczr3j8Y.png" group-title="Sports",ESPN 2 LATINO (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy04jFif43883gguVCxUHI4fs/ts
 #EXTINF:-1 xui-id="23317" tvg-id="ESPN2PE" tvg-name="ESPN 2 LATINO (SDe)" tvg-logo="https://imgur.com/SQDWZwU.png" group-title="Sports",ESPN 2 LATINO (SDe)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu23GE9WL5IBKHpCBU2WEMhnI/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy03N3nSB8h2w9pJRXW1FZvUw/ts
 #EXTINF:-1 xui-id="229107" tvg-id="" tvg-name="ESPN 2 MX (HD)" tvg-logo="https://imgur.com/SQDWZwU.png" group-title="Sports",ESPN 2 MX (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2_6Ap--m1w1vJvawfYG3SPA/ts
-#EXTINF:-1 xui-id="370272" tvg-id="ESPN3" tvg-name="ESPN 3 (CH)(HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qjz3tQ8ClGmN6a02fRuy7vX8.png" group-title="Sports",ESPN 3 (CH)(HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2-tV3vsgHuyMWDZXv3cIM-o/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy06GsvlCmdWS6rVgqZ-3_ya4/ts
+#EXTINF:-1 xui-id="370272" tvg-id="ESPN3" tvg-name="ESPN 3 (CH)(HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxHd1P4ReNQbrJT2pa2LcRo.png" group-title="Sports",ESPN 3 (CH)(HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy04Tfe4aOI8iucSopAO2sKXw/ts
 #EXTINF:-1 xui-id="13749" tvg-id="ESPN3HD" tvg-name="ESPN 3 (HD) (AR)" tvg-logo="https://imgur.com/f4GfoEV.png" group-title="Sports",ESPN 3 (HD) (AR)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu292Mz2ql5uDdRSHsgOPSbTc/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0-qE9I2u0AeZUMNX4GcMu5s/ts
 #EXTINF:-1 xui-id="523" tvg-id="ESP3HA3" tvg-name="ESPN 3 (SD)" tvg-logo="https://imgur.com/f4GfoEV.png" group-title="Sports",ESPN 3 (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu27zrR1wnGhDZUkkL1ClUZeo/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0yZEM2Net_jvms98QBkwOiY/ts
 #EXTINF:-1 xui-id="229106" tvg-id="" tvg-name="ESPN 3 MX (HD)" tvg-logo="https://imgur.com/f4GfoEV.png" group-title="Sports",ESPN 3 MX (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2-JogQ9CLpQU7mf1FMUuK34/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy002cx9SAjebdAJcDS1K3Pbg/ts
 #EXTINF:-1 xui-id="182322" tvg-id="ESPN3N" tvg-name="ESPN 3 NRT (HD)" tvg-logo="https://imgur.com/f4GfoEV.png" group-title="Sports",ESPN 3 NRT (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wdfUI5DdZM2hnIqvk1tgEk/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy07btKcF9fAerezJOVoLgr9s/ts
 #EXTINF:-1 xui-id="20039" tvg-id="FSCHIH" tvg-name="ESPN 4 (HDe) (S)" tvg-logo="https://imgur.com/vmTjTo7.png" group-title="Sports",ESPN 4 (HDe) (S)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu20mPu0bxK8D722Dpfrulxfo/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy08DImCfxNLJ0_vzmC5pF5Io/ts
 #EXTINF:-1 xui-id="17906" tvg-id="FOXSCHD" tvg-name="ESPN 4 (SD)" tvg-logo="https://imgur.com/vmTjTo7.png" group-title="Sports",ESPN 4 (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wOLtcY04KAbOMGi5z3r6XY/ts
-#EXTINF:-1 xui-id="524" tvg-id="FSALPV" tvg-name="ESPN 4 (SD) (PE)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj1dONq0qygC0HSfhdbfmg-M.png" group-title="Sports",ESPN 4 (SD) (PE)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2_whp-QUB3V_wwrm5Dijm1g/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy051QDTtHPW1vdN3Ftws5E-E/ts
+#EXTINF:-1 xui-id="524" tvg-id="FSALPV" tvg-name="ESPN 4 (SD) (PE)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn39eI2CP0iDGZP-pl7Gbtk4.png" group-title="Sports",ESPN 4 (SD) (PE)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0ye0GgQklDZwOyQs47K2yi8/ts
 #EXTINF:-1 xui-id="246939" tvg-id="" tvg-name="ESPN 4 NRT (HD)" tvg-logo="https://imgur.com/vmTjTo7.png" group-title="Sports",ESPN 4 NRT (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2z5GEnpoJ9VKKGWxOxGSCa0/ts
-#EXTINF:-1 xui-id="43071" tvg-id="ESPNDHD" tvg-name="ESPN DEPORTES (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj2tcDnYfURfL20aWR9QG5DE.png" group-title="Sports",ESPN DEPORTES (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu25jdz93YyPe4E1OoPO_Gz40/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0yaRrCv1UiTchethdyIkyBY/ts
+#EXTINF:-1 xui-id="43071" tvg-id="ESPNDHD" tvg-name="ESPN DEPORTES (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3cA9XuDVWIKo3Ql-BT5yyc.png" group-title="Sports",ESPN DEPORTES (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0wKTrYz6SxOrtqq-_uV1AbI/ts
 #EXTINF:-1 xui-id="13748" tvg-id="ESPNMLA" tvg-name="ESPN EXTRA (ARG)(HD)" tvg-logo="https://imgur.com/9MldTMS.png" group-title="Sports",ESPN EXTRA (ARG)(HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu251ajCBRq__d-nyuVbKpQjg/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy01BDNBA_o3PtLzr9JQbu_2g/ts
 #EXTINF:-1 xui-id="370270" tvg-id="ESPNMAM" tvg-name="ESPN EXTRA (CH)(HD)" tvg-logo="https://imgur.com/9MldTMS.png" group-title="Sports",ESPN EXTRA (CH)(HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu24h8xO5PmMRYWCvYc2ETdTI/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy008lZESLMTJvNi55-4DcI9U/ts
 #EXTINF:-1 xui-id="20268" tvg-id="ESPMLA" tvg-name="ESPN EXTRA (HD) (e)" tvg-logo="https://imgur.com/9MldTMS.png" group-title="Sports",ESPN EXTRA (HD) (e)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu236Fi8AJIHc_H3lf4bm14vc/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy06h2AzHuVMxLNrhnokmY32Q/ts
 #EXTINF:-1 xui-id="232062" tvg-id="ESPNXD" tvg-name="ESPN EXTRA (SDe)" tvg-logo="https://imgur.com/9MldTMS.png" group-title="Sports",ESPN EXTRA (SDe)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29CY1OCyuoHD3ra7XjcLGV0/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00mBAEyvP9quJznwFIC5auI/ts
 #EXTINF:-1 xui-id="240404" tvg-id="ESPNANZ" tvg-name="ESPN NEWS US (HD)" tvg-logo="https://imgur.com/KwjQ2ZU.png" group-title="Sports",ESPN NEWS US (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zQ3DFkEthSdLCVqzYTMkDw/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0xPlOo7T6Gfw857Zr96WPjc/ts
 #EXTINF:-1 xui-id="13751" tvg-id="FSPREM" tvg-name="ESPN PREMIUM (HD) (AR)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4YcQ7CZVA48HK1jOHQJ05Q.png" group-title="Sports",ESPN PREMIUM (HD) (AR)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu23TcIA81yObX0o9NsSqfjjQ/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0_QD-pxqQUKjU_8Plw2tDmY/ts
 #EXTINF:-1 xui-id="240402" tvg-id="ESPNUHD" tvg-name="ESPN U US (HD)" tvg-logo="https://imgur.com/XNaAS5Z.png" group-title="Sports",ESPN U US (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu20YPvlh9cl5XMOSF_GWpxoM/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy093HSU1sfKk3Do6HqLcqFDk/ts
 #EXTINF:-1 xui-id="35047" tvg-id="DEUROSP" tvg-name="EUROSPORT 1 ES (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnw0Tn5dzf4v6lWfwQYifrSg.png" group-title="Sports",EUROSPORT 1 ES (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu27uh02oKc4nnMirzKiIg9Qw/ts
-#EXTINF:-1 xui-id="188310" tvg-id="ES2ESP" tvg-name="EUROSPORT 2 ES (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qjy7EXLRziRKjQrgIvpM3_wQ.png" group-title="Sports",EUROSPORT 2 ES (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zHul7NuqHqlwmat0ChjCH8/ts
-#EXTINF:-1 xui-id="240412" tvg-id="FSCPLHD" tvg-name="FOX SOCCER US (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj72c0isQsUygxl8fpBhU8MY.png" group-title="Sports",FOX SOCCER US (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu24GIn4ZujnBlCGr00OBFbiU/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy05ju64QbJ5XG_q5LLh0YUpY/ts
+#EXTINF:-1 xui-id="188310" tvg-id="ES2ESP" tvg-name="EUROSPORT 2 ES (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5RL2dQVtk-DruVoN1sKWQQ.png" group-title="Sports",EUROSPORT 2 ES (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00cwIOm9FTGgBRSp1cUT8Gw/ts
 #EXTINF:-1 xui-id="44734" tvg-id="FXDEPC" tvg-name="FOX DEPORTES (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxvnnsLOGycGB0lkU_iJbog.png" group-title="Sports",FOX DEPORTES (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2w3hWvC8Xkl1PU4Xsbga-M8/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0wOJy3qqnC5PR15SgNDvWY8/ts
+#EXTINF:-1 xui-id="240412" tvg-id="FSCPLHD" tvg-name="FOX SOCCER US (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4Jm5_uKTFdh72QyHItz7FQ.png" group-title="Sports",FOX SOCCER US (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00JGWpZd-hpCAwr2aKLMtVU/ts
 #EXTINF:-1 xui-id="13752" tvg-id="FSALA" tvg-name="FOX SPORTS 1 (HD) (AR)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3jPy6-5E1r45wpzHb3dGIY.png" group-title="Sports",FOX SPORTS 1 (HD) (AR)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu24xxVzoys50kOMfTIoD1akQ/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0wB7YKhsNya-Wasiknuz4sA/ts
 #EXTINF:-1 xui-id="207660" tvg-id="FOXSCHD" tvg-name="FOX SPORTS 1 (HDe) (CHI)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3jPy6-5E1r45wpzHb3dGIY.png" group-title="Sports",FOX SPORTS 1 (HDe) (CHI)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu22efo5sPq02rXhIrlLykXOk/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0z74SAC51vZ9CCWhuYKOQSE/ts
 #EXTINF:-1 xui-id="23318" tvg-id="FSALSP" tvg-name="FOX SPORTS 1 (SD) (CHI)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3jPy6-5E1r45wpzHb3dGIY.png" group-title="Sports",FOX SPORTS 1 (SD) (CHI)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu23yOfZn8prb4fF1JsQ9z5O8/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy02iL87fLktUmiZ0OpXopUsY/ts
 #EXTINF:-1 xui-id="229110" tvg-id="FSALPM" tvg-name="FOX SPORTS 1 MX (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn3jPy6-5E1r45wpzHb3dGIY.png" group-title="Sports",FOX SPORTS 1 MX (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2yPbdKYxEirEmRRPNY6eDNA/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0wXmTkJy7XHoybiMwEm3Lt4/ts
 #EXTINF:-1 xui-id="13753" tvg-id="FS2ARHD" tvg-name="FOX SPORTS 2 (HD) (AR)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4fa4bzp1Auaom-FG0bMGJ0.png" group-title="Sports",FOX SPORTS 2 (HD) (AR)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu20T6XL3w72qe8xBMkJfooZ8/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy09wmlbAeMgDRmdNUV1Wsylc/ts
 #EXTINF:-1 xui-id="42730" tvg-id="FOXS2HA" tvg-name="FOX SPORTS 2 (HD) (CHI)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4fa4bzp1Auaom-FG0bMGJ0.png" group-title="Sports",FOX SPORTS 2 (HD) (CHI)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21o-vzObHTXRZ4MFhZWp4q4/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy07HagCzRA6hZg5RgFXiD_P8/ts
 #EXTINF:-1 xui-id="20040" tvg-id="FOXS2HA" tvg-name="FOX SPORTS 2 (HDe) (S)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4fa4bzp1Auaom-FG0bMGJ0.png" group-title="Sports",FOX SPORTS 2 (HDe) (S)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xm9X5Y6dap3Ovhsjltubok/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0ycsSANr96hLXgFuz4KDTPg/ts
 #EXTINF:-1 xui-id="520" tvg-id="FSALSA" tvg-name="FOX SPORTS 2 (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4fa4bzp1Auaom-FG0bMGJ0.png" group-title="Sports",FOX SPORTS 2 (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu23QNqH2YuDnv4xFRXKDeYMw/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00SyuG7AaZc4iyr91au_SXA/ts
 #EXTINF:-1 xui-id="42618" tvg-id="FS2CHA3" tvg-name="FOX SPORTS 2 (SDe) (S)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4fa4bzp1Auaom-FG0bMGJ0.png" group-title="Sports",FOX SPORTS 2 (SDe) (S)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2_4K7TQbHfE3ic6FHDwF-5Q/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0xmIUJ850-xq9zVkyerBXQk/ts
 #EXTINF:-1 xui-id="229109" tvg-id="FOXSHD2" tvg-name="FOX SPORTS 2 MX (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4fa4bzp1Auaom-FG0bMGJ0.png" group-title="Sports",FOX SPORTS 2 MX (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu212NDTbdRH4kcgTBlIPYyBc/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0850JPP3VVa-6eGOjsqGUQc/ts
 #EXTINF:-1 xui-id="378692" tvg-id="FOXS3A" tvg-name="FOX SPORTS 3 (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5B44on-7xgbWeYWSrQjbo8.png" group-title="Sports",FOX SPORTS 3 (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wkM68qI3hBFNmD23eO3xJY/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0x_ijPkuXG2kWle1zKfL78s/ts
 #EXTINF:-1 xui-id="13750" tvg-id="FOXS3HD" tvg-name="FOX SPORTS 3 (HD) (AR)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5B44on-7xgbWeYWSrQjbo8.png" group-title="Sports",FOX SPORTS 3 (HD) (AR)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2yL76N0Ql6TdYnazPtulCYw/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy065CWhBc5MayktawAASYp0o/ts
 #EXTINF:-1 xui-id="544" tvg-id="FOXS3" tvg-name="FOX SPORTS 3 (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5B44on-7xgbWeYWSrQjbo8.png" group-title="Sports",FOX SPORTS 3 (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu25xJzPitKR2nSVADwYPLCcI/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0-QzRyyptWcZGeEcf9XcrZc/ts
 #EXTINF:-1 xui-id="229108" tvg-id="FSP3HD" tvg-name="FOX SPORTS 3 MX (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn5B44on-7xgbWeYWSrQjbo8.png" group-title="Sports",FOX SPORTS 3 MX (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29JZ3Z3MmQsObhwDXfh4zz0/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0wrGKbOmD1ojxNoDsEf8vXc/ts
 #EXTINF:-1 xui-id="357430" tvg-id="" tvg-name="FOX SPORTS PREMIUM MX (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnxIM2f20S-lI9pBc0uE3gzw.png" group-title="Sports",FOX SPORTS PREMIUM MX (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29jaWcmNKv6-jPWvGliW-S4/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0_WI02lsXOnHHt5HNZ3V4Es/ts
 #EXTINF:-1 xui-id="413745" tvg-id="FUBOSN" tvg-name="Fubo Sports Network" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn29sCdNL9BNsSdDA-ACoK60.png" group-title="Sports",Fubo Sports Network
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2_tTNvBztHSDSlOImT-6VfA/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy06t7AsiQNNy9R4CVmVCe7hg/ts
 #EXTINF:-1 xui-id="68591" tvg-id="" tvg-name="GOLF CHANNEL (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn_6lU9gw-mqcwvM1KA6OAYQ.png" group-title="Sports",GOLF CHANNEL (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu20mIqDfvtIeMKv09O3RNjnI/ts
-#EXTINF:-1 xui-id="517" tvg-id="GOLLAHD" tvg-name="GOLTV (SD)" tvg-logo="http://nubiatv.live:80/images/9071e588edab01d9300f208c7b5b05b4.png" group-title="Sports",GOLTV (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2x3cvK_g0s7PlUu80NrcujE/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy06x3HKQ6icmDXXVlL8bRSOg/ts
+#EXTINF:-1 xui-id="44382" tvg-id="" tvg-name="GOLF CHANNEL (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn_6lU9gw-mqcwvM1KA6OAYQ.png" group-title="Sports",GOLF CHANNEL (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00RGqbx_lLmz9A6F9buIzeA/ts
+#EXTINF:-1 xui-id="517" tvg-id="GOLLAHD" tvg-name="GOLTV (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn08dEkc9MpLu-VrVzQga4KY.png" group-title="Sports",GOLTV (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy02Pi2rSmSTxd1i8hO691amQ/ts
+#EXTINF:-1 xui-id="44735" tvg-id="" tvg-name="MLB NETWORK (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn2thX80KHeL6eZ63Qu87hFQ.png" group-title="Sports",MLB NETWORK (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0w71qXKKF2PZYelPMfZWbhc/ts
 #EXTINF:-1 xui-id="5609" tvg-id="MGOLF" tvg-name="MOVISTAR GOLF (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn4uhK2cBlXWgwiNd9iZbXmU.png" group-title="Sports",MOVISTAR GOLF (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu26j_ZmAJF6aop5KuW4rfEQo/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0zVe0H4tk_jJ9WWu3uH9NtM/ts
 #EXTINF:-1 xui-id="66772" tvg-id="" tvg-name="MOVISTAR LA LIGA (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1S6FpknAB5AGshr0NhmyIc.png" group-title="Sports",MOVISTAR LA LIGA (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu28GWXP_J1JdqUKAucZ6Qeac/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy06aVFSWvCsmMyGYCww8EvXY/ts
 #EXTINF:-1 xui-id="43915" tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn7FMZa6oKBh7fe9nm3I8YWY.png" group-title="Sports",MOVISTAR LIGA DE CAMPEONES (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2yWq6xOAH0cyncULtudPS94/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy01nKlGXZFprIxCwki2tF-Dk/ts
+#EXTINF:-1 xui-id="7385" tvg-id="NBATV" tvg-name="NBA TV (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn75KzGJJ9ONPVTWhsAtfKg4.png" group-title="Sports",NBA TV (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0zCCb86hOECovC1gNfMd3nE/ts
 #EXTINF:-1 xui-id="240416" tvg-id="NBCSBH" tvg-name="NBC SPORTS BOSTON (HD)" tvg-logo="https://imgur.com/EnufRG9.png" group-title="Sports",NBC SPORTS BOSTON (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2-RTvJ9erSIpkYhK2Id9NFo/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0yaxDy9gALLaqsYR6xxIEkE/ts
 #EXTINF:-1 xui-id="240417" tvg-id="NBCSCA" tvg-name="NBC SPORTS CALIFORNIA (HD)" tvg-logo="https://imgur.com/ZhC9IHS.png" group-title="Sports",NBC SPORTS CALIFORNIA (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu209274JVJyxsmYeqJ4QeiWk/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy007WqLIB_vphw971sj_2NVU/ts
 #EXTINF:-1 xui-id="240418" tvg-id="NBCSCHD" tvg-name="NBC SPORTS CHICAGO (SD)" tvg-logo="https://imgur.com/fqAZibS.png" group-title="Sports",NBC SPORTS CHICAGO (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu26rNu6LzgfstaMvcvv4WrgY/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy01yw6lvpc7gQc0haSPJhl3U/ts
 #EXTINF:-1 xui-id="240419" tvg-id="NBCSPAH" tvg-name="NBC SPORTS PHILADELPHIA (HD)" tvg-logo="https://imgur.com/8ZqClyx.png" group-title="Sports",NBC SPORTS PHILADELPHIA (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu26QOMWEimNSqrPAi4g9Sd0k/ts
-#EXTINF:-1 xui-id="44738" tvg-id="TENNIS" tvg-name="TENNIS CHANNEL (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8DF_ow5GYDIo_ks2OV2OB4.png" group-title="Sports",TENNIS CHANNEL (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29tA7YRgyDMOEzdl37rS-3o/ts
-#EXTINF:-1 xui-id="5611" tvg-id="TUDNM" tvg-name="TUDN (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn-8VsAGKlB4AFZ1w6p8veNQ.png" group-title="Sports",TUDN (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu22KRx9b6HEAxrAwbnzy8Otw/ts
-#EXTINF:-1 xui-id="52030" tvg-id="TUDNU" tvg-name="TUDN USA (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn-8VsAGKlB4AFZ1w6p8veNQ.png" group-title="Sports",TUDN USA (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2w3jcAQT54UtVxPnutBjbHw/ts
-#EXTINF:-1 xui-id="240395" tvg-id="TSNHD" tvg-name="TSN 1 US (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj40vTPv1BfL2K-gQagEoppg.png" group-title="Sports",TSN 1 US (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zL86AvkflW6P-aCYhu4v3s/ts
-#EXTINF:-1 xui-id="240396" tvg-id="TSN2HD" tvg-name="TSN 2 US (HD)" tvg-logo="https://imgur.com/wIWyhlu.png" group-title="Sports",TSN 2 US (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2zifawhSdHE8RRQOjFBlRJc/ts
-#EXTINF:-1 xui-id="240398" tvg-id="TSN3BO" tvg-name="TSN 3 US (HD)" tvg-logo="https://imgur.com/rzSDuhu.png" group-title="Sports",TSN 3 US (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xAH-YSdbiwvpld_dOk1tYg/ts
-#EXTINF:-1 xui-id="240400" tvg-id="TSN4K" tvg-name="TSN 4 US (HD)" tvg-logo="https://imgur.com/LhSpCPn.png" group-title="Sports",TSN 4 US (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2xJYM7bnSdZYFMQd1FZO-D0/ts
-#EXTINF:-1 xui-id="18241" tvg-id="TYCHD" tvg-name="TyC SPORTS (HD) (AR)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn706JStkObeqe1vEYAhUGW4.png" group-title="Sports",TyC SPORTS (HD) (AR)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu25bbs4Zsd4vC5d0rkNDox3w/ts
-#EXTINF:-1 xui-id="207662" tvg-id="TYCINTH" tvg-name="TyC SPORTS (HDe) (ARG)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn706JStkObeqe1vEYAhUGW4.png" group-title="Sports",TyC SPORTS (HDe) (ARG)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu26gPF3N3Lq5vZH_0Ez6q4VE/ts
-#EXTINF:-1 xui-id="525" tvg-id="TYC" tvg-name="TyC SPORTS (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn706JStkObeqe1vEYAhUGW4.png" group-title="Sports",TyC SPORTS (SD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu25XAtAztBEiRnDG9mk41EZs/ts
-#EXTINF:-1 xui-id="5612" tvg-id="" tvg-name="UFC FIGHT PASS (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8rlkaJoaxctLb4DDUioPYY.png" group-title="Sports",UFC FIGHT PASS (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu29_jyklPAbXG8BeLPXcZlsg/ts
-#EXTINF:-1 xui-id="240406" tvg-id="WFNUSHD" tvg-name="WORLD FISHING NETWORK US (HD)" tvg-logo="https://imgur.com/GoQ8tAn.png" group-title="Sports",WORLD FISHING NETWORK US (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu25_4WLyv723h3hgxadfk6vU/ts
-#EXTINF:-1 xui-id="193317" tvg-id="" tvg-name="WWE NETWORK (HD)" tvg-logo="https://imgur.com/fLK3xMx.png" group-title="Sports",WWE NETWORK (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu22n6al4Hj6sFgN8kRWcs9Rw/ts
-#EXTINF:-1 xui-id="240407" tvg-id="NWV" tvg-name="USA NETWORK PACIFIC (HD)" tvg-logo="https://imgur.com/Jb5P4cN.png" group-title="Sports",USA NETWORK PACIFIC (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu23MeQh-VrssjlTALAqKX6YA/ts
-#EXTINF:-1 xui-id="5613" tvg-id="" tvg-name="UFC TV (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn05cdYO5RQkso1vSOgjxHWY.png" group-title="Sports",UFC TV (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21VwLs2hpGtBQ4lvZ3e4_Z4/ts
-#EXTINF:-1 xui-id="66637" tvg-id="" tvg-name="SKY SPORTS LA LIGA (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8N_1FjUbZv4MK8L4xdwW3U.png" group-title="Sports",SKY SPORTS LA LIGA (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu21hrTScD759IIBlNggPqYOE/ts
-#EXTINF:-1 xui-id="5630" tvg-id="" tvg-name="SKY SPORTS LATINO (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8N_1FjUbZv4MK8L4xdwW3U.png" group-title="Sports",SKY SPORTS LATINO (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu27UrpbP_0WH2qtKe2KykdJE/t
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0xeZkNdpybR5ws8qgKkRMgo/ts
+#EXTINF:-1 xui-id="226739" tvg-id="" tvg-name="NFL NETWORK (HD)" tvg-logo="http://nubiatv.live:80/images/VYDKs6o-7uj2nees_x8Qj9Qe1otB5fOsUDHydNu-Cns.png" group-title="Sports",NFL NETWORK (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0xOG4cSftsdoKiWgorGxVqI/ts
 #EXTINF:-1 xui-id="421085" tvg-id="" tvg-name="NFL REDZONE (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn95DkjVOL8Wb7V9o3nPVnxY.png" group-title="Sports",NFL REDZONE (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu2wVCa_bbeuu_v0EtInedlvQ/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy07tRs6ZyaqPJzYvmgrlv2w8/ts
 #EXTINF:-1 xui-id="44736" tvg-id="NHLNET" tvg-name="NHL NETWORK (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn1wobBV-qj-RumO3Ug-MJpE.png" group-title="Sports",NHL NETWORK (HD)
-http://nubiatv.live:80/play/3MCobQVFOhWfs0Madvdu288sBqL4TeGkYAPvrR1j_yI/ts
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy08dzA0Mkmny8aHt0vHLxJ1s/ts
+#EXTINF:-1 xui-id="66637" tvg-id="" tvg-name="SKY SPORTS LA LIGA (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8N_1FjUbZv4MK8L4xdwW3U.png" group-title="Sports",SKY SPORTS LA LIGA (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0zWPb9As4AVXw7oOFpZxOrg/ts
+#EXTINF:-1 xui-id="5630" tvg-id="" tvg-name="SKY SPORTS LATINO (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8N_1FjUbZv4MK8L4xdwW3U.png" group-title="Sports",SKY SPORTS LATINO (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy04EzIJthPhTiOWKo-Krfzoo/ts
+#EXTINF:-1 xui-id="44738" tvg-id="TENNIS" tvg-name="TENNIS CHANNEL (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8DF_ow5GYDIo_ks2OV2OB4.png" group-title="Sports",TENNIS CHANNEL (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy09l3295FbgOmfsP3oP3L8_w/ts
+#EXTINF:-1 xui-id="240395" tvg-id="TSNHD" tvg-name="TSN 1 US (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn9QigmTMBo2WNobgWsWhj1Y.png" group-title="Sports",TSN 1 US (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0wF-zgnBQz2wRm0z9pPNNkE/ts
+#EXTINF:-1 xui-id="240396" tvg-id="TSN2HD" tvg-name="TSN 2 US (HD)" tvg-logo="https://imgur.com/wIWyhlu.png" group-title="Sports",TSN 2 US (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy08YFAUkBEBtFXPpGRqjzw00/ts
+#EXTINF:-1 xui-id="240398" tvg-id="TSN3BO" tvg-name="TSN 3 US (HD)" tvg-logo="https://imgur.com/rzSDuhu.png" group-title="Sports",TSN 3 US (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0-4RHxWhfIowqHNLFRlzjqU/ts
+#EXTINF:-1 xui-id="240400" tvg-id="TSN4K" tvg-name="TSN 4 US (HD)" tvg-logo="https://imgur.com/LhSpCPn.png" group-title="Sports",TSN 4 US (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0y_FAMqDNLnjh-DZAu4-k2Y/ts
+#EXTINF:-1 xui-id="5611" tvg-id="TUDNM" tvg-name="TUDN (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn-8VsAGKlB4AFZ1w6p8veNQ.png" group-title="Sports",TUDN (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy01YYHKW2ZpD4LXSns3Q9NuI/ts
+#EXTINF:-1 xui-id="52030" tvg-id="TUDNU" tvg-name="TUDN USA (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn-8VsAGKlB4AFZ1w6p8veNQ.png" group-title="Sports",TUDN USA (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0-DiXBey2EWo0vfrt0hxkqM/ts
+#EXTINF:-1 xui-id="18241" tvg-id="TYCHD" tvg-name="TyC SPORTS (HD) (AR)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn706JStkObeqe1vEYAhUGW4.png" group-title="Sports",TyC SPORTS (HD) (AR)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0z8Zo48nwIHCMzkZJJi5YUA/ts
+#EXTINF:-1 xui-id="207662" tvg-id="TYCINTH" tvg-name="TyC SPORTS (HDe) (ARG)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn706JStkObeqe1vEYAhUGW4.png" group-title="Sports",TyC SPORTS (HDe) (ARG)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy02gyn0snYxe0ybzscr3f38o/ts
+#EXTINF:-1 xui-id="525" tvg-id="TYC" tvg-name="TyC SPORTS (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn706JStkObeqe1vEYAhUGW4.png" group-title="Sports",TyC SPORTS (SD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy049w4_dliVuaIT180ceYDKo/ts
+#EXTINF:-1 xui-id="5612" tvg-id="" tvg-name="UFC FIGHT PASS (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8rlkaJoaxctLb4DDUioPYY.png" group-title="Sports",UFC FIGHT PASS (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy0yYw2y9L98oTZErtTbozyEE/ts
+#EXTINF:-1 xui-id="5613" tvg-id="" tvg-name="UFC TV (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn05cdYO5RQkso1vSOgjxHWY.png" group-title="Sports",UFC TV (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy06lXHah7fvzVnQOCuGl7VHU/ts
+#EXTINF:-1 xui-id="240407" tvg-id="NWV" tvg-name="USA NETWORK PACIFIC (HD)" tvg-logo="https://imgur.com/Jb5P4cN.png" group-title="Sports",USA NETWORK PACIFIC (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy00DcW7Z6po2kmtTghkwEnFE/ts
+#EXTINF:-1 xui-id="240406" tvg-id="WFNUSHD" tvg-name="WORLD FISHING NETWORK US (HD)" tvg-logo="https://imgur.com/GoQ8tAn.png" group-title="Sports",WORLD FISHING NETWORK US (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy09IqLLzo3QG6goZNM1ZtQYQ/ts
+#EXTINF:-1 xui-id="193317" tvg-id="" tvg-name="WWE NETWORK (HD)" tvg-logo="https://imgur.com/fLK3xMx.png" group-title="Sports",WWE NETWORK (HD)
+http://nubiatv.live:80/play/CCRBUcYCRE-7KfTiUmvy049wZ4tXcd6Kc014X0j52-g/ts
